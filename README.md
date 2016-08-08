@@ -2,5 +2,4 @@
 
 This repository provides data/scripts used in paper: 
 
-A Transcriptional Blueprint for a Spiral-Cleaving Embryo
-HSIEN-CHAO CHOU, MARGARET M. PRUITT1, BENJAMIN R. BASTIN1, AND STEPHAN Q. SCHNEIDER
+Chou, H. C., Pruitt, M. M., Bastin, B. R., & Schneider, S. Q. (2016). A transcriptional blueprint for a spiral-cleaving embryo. BMC Genomics, 17.
